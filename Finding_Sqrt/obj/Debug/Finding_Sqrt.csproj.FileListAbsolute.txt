@@ -1,0 +1,7 @@
+D:\_My_Math\Finding_Sqrt\Finding_Sqrt\bin\Debug\Finding_Sqrt.exe.config
+D:\_My_Math\Finding_Sqrt\Finding_Sqrt\bin\Debug\Finding_Sqrt.exe
+D:\_My_Math\Finding_Sqrt\Finding_Sqrt\bin\Debug\Finding_Sqrt.pdb
+D:\_My_Math\Finding_Sqrt\Finding_Sqrt\obj\Debug\Finding_Sqrt.csprojAssemblyReference.cache
+D:\_My_Math\Finding_Sqrt\Finding_Sqrt\obj\Debug\Finding_Sqrt.csproj.CoreCompileInputs.cache
+D:\_My_Math\Finding_Sqrt\Finding_Sqrt\obj\Debug\Finding_Sqrt.exe
+D:\_My_Math\Finding_Sqrt\Finding_Sqrt\obj\Debug\Finding_Sqrt.pdb
